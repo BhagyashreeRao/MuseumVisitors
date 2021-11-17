@@ -1,0 +1,15 @@
+{
+  "name": "museumvisitors",
+  "version": "1.0.0",
+  "description": "An app that fetches details of museum visitors",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Bhagyashree Rao",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1"
+  }
+}
